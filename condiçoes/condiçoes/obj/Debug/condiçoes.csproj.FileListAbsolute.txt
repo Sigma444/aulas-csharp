@@ -1,0 +1,8 @@
+C:\Users\PC GAMER\Desktop\condiçoes\condiçoes\bin\Debug\condiçoes.exe.config
+C:\Users\PC GAMER\Desktop\condiçoes\condiçoes\bin\Debug\condiçoes.exe
+C:\Users\PC GAMER\Desktop\condiçoes\condiçoes\bin\Debug\condiçoes.pdb
+C:\Users\PC GAMER\Desktop\condiçoes\condiçoes\obj\Debug\condiçoes.csproj.AssemblyReference.cache
+C:\Users\PC GAMER\Desktop\condiçoes\condiçoes\obj\Debug\condiçoes.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC GAMER\Desktop\condiçoes\condiçoes\obj\Debug\condiçoes.csproj.CoreCompileInputs.cache
+C:\Users\PC GAMER\Desktop\condiçoes\condiçoes\obj\Debug\condiçoes.exe
+C:\Users\PC GAMER\Desktop\condiçoes\condiçoes\obj\Debug\condiçoes.pdb
